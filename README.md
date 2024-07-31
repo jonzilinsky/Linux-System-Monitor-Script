@@ -1,7 +1,7 @@
 <h1>System Monitor Bash Script</h1>
 
 <h2>Description</h2>
-Experimenting with creating a Linux script to monitor system attributes.<br />
+Experimenting with creating a Linux bash script to monitor system attributes.<br />
 This follows my learnings from "The Linux Command Line" by William E. Shotts. <br />
 
 <h2>Utilities Used</h2>
