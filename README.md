@@ -1,4 +1,4 @@
-<h1>Linux System Monitor Script</h1>
+<h1>System Monitor Bash Script</h1>
 
 <h2>Description</h2>
 Experimenting with creating a Linux script to monitor system attributes.<br />
